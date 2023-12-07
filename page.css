@@ -1,0 +1,30 @@
+.maindiv{
+    background-color: white;
+}
+.firstdiv{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+}
+.seconddiv{
+    background-color: white;
+
+}
+.thirddiv{
+    background-color: white;
+}
+.M{
+    color: white;
+}
+.F{
+    color: black;
+    text-decoration: black;
+}
+.more{
+    color: black;
+}
+h1{
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 20px;
+}
